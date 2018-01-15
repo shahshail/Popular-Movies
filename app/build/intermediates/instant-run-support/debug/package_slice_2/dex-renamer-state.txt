@@ -1,0 +1,4 @@
+#Sat Oct 21 23:12:02 CDT 2017
+base.0=/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

@@ -1,0 +1,4 @@
+#Mon Jan 15 15:50:05 CST 2018
+base.0=/Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

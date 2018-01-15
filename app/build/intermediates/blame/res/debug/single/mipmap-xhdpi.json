@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_refresh.png",
+        "source": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_movie_icon.png",
+        "source": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_movie_icon.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_movie_icon.png",
+        "source": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_movie_icon.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_share_content.png",
+        "source": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_share_content.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_refresh.png",
+        "source": "/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_share_content.png",
+        "source": "/Users/shailshah/Documents/Android/PopularMoviesUdacity-Stage1/app/src/main/res/mipmap-xhdpi/ic_share_content.png"
+    }
+]

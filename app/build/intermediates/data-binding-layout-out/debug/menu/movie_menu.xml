@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/movie_sort_by"
+        android:title="Sort By">
+        <menu>
+            <item
+                android:id="@+id/movie_upcoming"
+                android:title="Up Coming"></item>
+            <item
+                android:id="@+id/movie_popular"
+                android:title="Popular"></item>
+            <item
+                android:id="@+id/movie_top_rated"
+                android:title="Top Rated" ></item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/movie_favorite"
+        android:title="Favorite">
+
+    </item>
+    <item
+        android:id="@+id/movie_watchlist"
+        android:title="Watch List">
+
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_setting"></item>
+
+
+
+</menu>

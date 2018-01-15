@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/a4c55a7e35690e6da4ae349fecb8057e/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/43f0975d193b64cafabb91fe2d25ba33/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0d77e0266e0210baab0d5c81ced723f0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/329e983554873d277256bf8b40be3a26/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:3:5-64
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:10:5-62:19
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:29:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/329e983554873d277256bf8b40be3a26/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/329e983554873d277256bf8b40be3a26/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:14:9-50
+	android:icon
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.shailshah.popularmoviesudacity_stage1.MainActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:launchMode
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.shailshah.popularmoviesudacity_stage1.DetailActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:parentActivityName
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:27:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:30:13-32:49
+	android:value
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:32:17-46
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:31:17-63
+activity#com.example.shailshah.popularmoviesudacity_stage1.SettingsActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:34:9-36:58
+	android:parentActivityName
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:35:13-45
+provider#com.example.shailshah.popularmoviesudacity_stage1.data.MovieProvider
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:38:9-41:40
+	android:authorities
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:40:13-84
+	android:exported
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:39:13-47
+service#com.example.shailshah.popularmoviesudacity_stage1.sync.MovieSyncIntentService
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:44:13-56
+service#com.example.shailshah.popularmoviesudacity_stage1.sync.MovieFirebaseJobService
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:46:9-52:19
+	android:exported
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:47:13-57
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:49:13-51:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:50:17-84
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:50:25-81
+activity#com.example.shailshah.popularmoviesudacity_stage1.ReviewActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:56:13-58
+	android:theme
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:55:13-43
+activity#com.example.shailshah.popularmoviesudacity_stage1.MainCriteriaActivity
+ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:58:9-59:67
+	android:parentActivityName
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:59:13-55
+	android:name
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml:58:19-55
+uses-sdk
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/a4c55a7e35690e6da4ae349fecb8057e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/a4c55a7e35690e6da4ae349fecb8057e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/43f0975d193b64cafabb91fe2d25ba33/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/43f0975d193b64cafabb91fe2d25ba33/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0d77e0266e0210baab0d5c81ced723f0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0d77e0266e0210baab0d5c81ced723f0/AndroidManifest.xml:20:5-43
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/329e983554873d277256bf8b40be3a26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/329e983554873d277256bf8b40be3a26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shailshah/Documents/Android/Projects/PopularMoviesUdacity-Stage1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/fe168cc2de46a1372a9458f47222e7e2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/97421bdc1d740afdd9dbef1868115cec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0d77e0266e0210baab0d5c81ced723f0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/0d77e0266e0210baab0d5c81ced723f0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/2ec13a3efc142927cbba217a5dff5cc0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/5875ad07f615ab77bcc94d9f00cae2b0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1fbb0cf97bc21f3b3f73b06adac3e3d9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ca8d7cb9b20f5f1986553f16c0f1f160/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/3d9ae55c38e16eedf79fdcd8f5a78f54/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/bd77dc23ee82bc0e330c3f5e88ef6253/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/29ff1a6efc3add5d0fe24c9ac7ca845f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/51246daa61ccea9237bb5fb9ad63ee73/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7edac27689f0fd74129a4aba50184f3a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d1c7512daf1ec17da6c36d838f20bd78/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:preference-v7:25.3.1] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/d4ae117fbba10548e6d7e8c3b684b25d/AndroidManifest.xml:23:9-47
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] /Users/shailshah/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.5.0.aar/267850584884c42732507e03c5fa0297/AndroidManifest.xml:37:25-84

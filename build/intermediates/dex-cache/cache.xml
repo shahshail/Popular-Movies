@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1d8bb59b6c35f5ab1c9d9fae53f161f3f976fa7">
+        <dex dex="/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3accdd37d2516d5990c711503fff793aea0be222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shailshah/Documents/PopularMoviesUdacity-Stage1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34412ff4c95fc3270ebfae3950c50ece0a10e8e5/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/main_grid_layout"
+    android:background="#000000">
+
+    <ImageView
+        android:id="@+id/tv_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:textColor="#FFFF"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        />
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+
+
+    >
+    <ImageView
+        android:id="@+id/im_favorite"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:scaleType="centerCrop"
+        android:visibility="invisible"
+        android:src="@drawable/ic_fav_liked"
+
+        />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:layout_marginLeft="20dp"
+        android:stepSize="1.0"
+        android:backgroundTint="@color/colorAccent"
+        style="?android:attr/ratingBarStyleSmall"
+        />
+    <TextView
+        android:id="@+id/movies_star"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textStyle="normal"
+        android:textSize="10sp"
+        android:textAppearance="@style/Base.AlertDialog.AppCompat.Light"
+        />
+
+
+</LinearLayout>
+
+
+
+
+    </GridLayout>

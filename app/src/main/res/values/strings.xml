@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Popular Movies Udacity -Stage 1</string>
+    <string name="pref_movie_sort_labelr">Sort By</string>
+    <string name="pref_movie_sort_popularity_label">Popularity</string>
+    <string name="pref_movie_sort_top_rated_label">Top Rated</string>
+    <string name="pref_movie_sort_popularity_key" translatable="false">popular</string>
+    <string name="pref_movie_sort_toprated_key" translatable="false">top_rated</string>
+    <string name="pref_movie_sort_key">sort_by</string>
+    <string name="loading_message">Loading...</string>
+    <string name="error_message">Oops, Something went wrong, Please try again later....:(</string>
+    <string name="action_setting">Settings</string>
+    <string name="movie_name">No Name Available</string>
+    <string name="movie_title">Title </string>
+    <string name="movie_ratings">Imdb </string>
+    <string name="movie_rating_default">0.0</string>
+    <string name="movie_release_year">0000</string>
+    <string name="movie_review_label">Review </string>
+    <string name="movie_release_date_label">Release Date </string>
+    <string name="movie_overview_label">Overview </string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="book_tickets">Book Tickets</string>
+    <string name="add_to_watch_list">Add to WatchList</string>
+    <string name="movie_upcoming_label">Upcoming Movies</string>
+    <string name="movie_upcoming_value">upcoming</string>
+    <string name="movie_favorite_value">favorite</string>
+    <string name="movie_favorite_label">Favorite</string>
+    <string name="title_activity_review">Reviews</string>
+    <string name="watch_trailer_1_label">Watch Trailer 1</string>
+    <string name="watch_trailer_2_label">Watch Trailer 2</string>
+    <string name="watch_trailer_3_label">Watch Trailer 3</string>
+    <string name="watch_trailer_4_label">Watch Trailer 4</string>
+    <string name="author_label">Author</string>
+    <string name="content_label">No Content Available.</string>
+    <string name="trailers">Trailers</string>
+    <string name="ratings_out_of">/10</string>
+    <string name="vote_count">0</string>
+    <string name="favorite_saved_label">Added to Your Favorite!!</string>
+    <string name="favorite_removed_label">Removed From Your Favorite!!</string>
+    <string name="no_connection_label">No Internet Connection !!</string>
+    <string name="cant_open_youtube_label">Cant open YoutTube, No Internet Connection</string>
+    <string name="cant_open_reviews">Sorry, Cant Open Reviews. No Internet Connection !!!</string>
+    <string name="no_trailers">No Trailers Are Available</string>
+
+
+</resources>
