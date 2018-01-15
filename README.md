@@ -42,22 +42,22 @@ Project for the Udacity Android Developer Fast Track supported by Google. The pr
 
 ### Home Screen
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/homeScreen_screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/homeScreen_screenshot.png)
 
 ### Horizontal Layout
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/horizontal_screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/horizontal_screenshot.png)
 
 ### DropDown Menu
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/menu__screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/menu__screenshot.png)
 
 ### Movie Detail
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/movie_details.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/movie_details.png)
 
 ### User Reviews
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/review_detail.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/review_detail.png)
 
-![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/reviews_screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/reviews_screenshot.png)
