@@ -42,21 +42,22 @@ Project for the Udacity Android Developer Fast Track supported by Google. The pr
 
 ### Home Screen
 
-![Screenshot1](Screenshots/homeScreen_screenshot.png) 
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/homeScreen_screenshot.png)
 
 ### Horizontal Layout
 
-![Screenshot2](Screenshots/horizontal_screenshot.png) 
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/horizontal_screenshot.png)
 
 ### DropDown Menu
 
-![Screenshot3](Screenshots/menu__screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/menu__screenshot.png)
 
 ### Movie Detail
 
-![Screenshot4](Screenshots/movie_details.png) 
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/movie_details.png)
 
 ### User Reviews
 
-![Screenshot5](Screenshots/review_detail.png)  
-![Screenshot6](Screenshots/reviews_screenshot.png)
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/review_detail.png)
+
+![atp txt](https://github.com/shahshail/Popular-Movies/blob/master/Screenshots/reviews_screenshot.png)
